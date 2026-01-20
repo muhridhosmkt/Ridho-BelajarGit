@@ -1,6 +1,5 @@
 1.BelajarGit
 2.Belajar Prmprograman
-3.Berahlaq mulia
 4.Belajar html
 5.belajar css
 6.Belajar javascript
