@@ -1,2 +1,2 @@
-# Ridho-BelajarGit
-Belajar Git pemula
+# Ridho-BelajarGithub
+Untuk Belajar Bagaaimana cara Menggunakan Github
